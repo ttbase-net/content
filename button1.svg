@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 133">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc77a;
+      }
+
+      .cls-2 {
+        fill: #e94549;
+      }
+
+      .cls-3 {
+        fill: #fe664e;
+      }
+    </style>
+  </defs>
+  <g id="style">
+    <g>
+      <circle class="cls-1" cx="66.5" cy="66.5" r="66.5"/>
+      <path class="cls-2" d="M66.5,127c-33.36,0-60.5-27.14-60.5-60.5S33.14,6,66.5,6s60.5,27.14,60.5,60.5-27.14,60.5-60.5,60.5Z"/>
+      <polyline class="cls-3" points="44 62 31 30 65 44 88 14 85 49 121 66 82.5 77.5 85 119 56 87 15 88 44 62"/>
+    </g>
+  </g>
+</svg>
